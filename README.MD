@@ -14,8 +14,6 @@
 - `status`: a boolean indicating whether the todo item is completed or not
 - `priority`: a string representing the priority level of the todo item (e.g., "low", "medium", "high")
 - `schedule`: a timestamp indicating when the todo item is due
-- `createdAt`: a timestamp indicating when the todo item was created
-- `updatedAt`: a timestamp indicating when the todo item was last updated
 
 
 ## POST (CREATE A NEW TODO ITEM)
